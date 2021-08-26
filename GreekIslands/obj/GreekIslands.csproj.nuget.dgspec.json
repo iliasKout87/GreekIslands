@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\koutl\\source\\repos\\GreekIslands\\GreekIslands\\GreekIslands.csproj": {}
+    "C:\\Users\\koutlas\\source\\repos\\GreekIslands\\GreekIslands\\GreekIslands.csproj": {}
   },
   "projects": {
-    "C:\\Users\\koutl\\source\\repos\\GreekIslands\\GreekIslands\\GreekIslands.csproj": {
+    "C:\\Users\\koutlas\\source\\repos\\GreekIslands\\GreekIslands\\GreekIslands.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koutl\\source\\repos\\GreekIslands\\GreekIslands\\GreekIslands.csproj",
+        "projectUniqueName": "C:\\Users\\koutlas\\source\\repos\\GreekIslands\\GreekIslands\\GreekIslands.csproj",
         "projectName": "GreekIslands",
-        "projectPath": "C:\\Users\\koutl\\source\\repos\\GreekIslands\\GreekIslands\\GreekIslands.csproj",
-        "packagesPath": "C:\\Users\\koutl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koutl\\source\\repos\\GreekIslands\\GreekIslands\\obj\\",
+        "projectPath": "C:\\Users\\koutlas\\source\\repos\\GreekIslands\\GreekIslands\\GreekIslands.csproj",
+        "packagesPath": "C:\\Users\\koutlas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\koutlas\\source\\repos\\GreekIslands\\GreekIslands\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\koutl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\koutlas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
